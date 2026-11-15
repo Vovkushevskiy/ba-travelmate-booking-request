@@ -1,1 +1,1 @@
-This file use for to save all documentation
+This file is used to save all documentation
